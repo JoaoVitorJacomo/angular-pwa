@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "AngularPwa",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "angular-pwa",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "angular-pwa",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
